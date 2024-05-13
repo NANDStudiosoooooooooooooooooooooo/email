@@ -1,5 +1,5 @@
 1. OPEN A TERMINAL
-2. TYPE cd path/to/the/folder
+2. TYPE cd path/to/NANDMAIL
 3. TYPE node server.js
 4. OPEN http://localhost:3042 IN A WEBBROWSER
 5. TYPE IN YOUR EMAIL AND CLICK "SEND"
